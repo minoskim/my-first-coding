@@ -18,6 +18,10 @@ for i in range(len(capturelist.index)):
     pyperclip.copy(codeNumber)
     exec(open(r"C:\python11\selenium\naver\no_pro_del(20230806)_for.py",'rt',encoding='UTF-8').read())
     time.sleep(0.5)
+    input()
+    #추가 했음
+
+
     # input()
     # exec(open(r"C:\python11\selenium\naver\fastinput0(20231012)_for.py",'rt',encoding='UTF-8').read())o
 
